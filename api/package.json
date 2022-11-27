@@ -1,0 +1,22 @@
+{
+  "name": "cars-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisZiBullet/cars-api.git"
+  },
+  "author": "ZiBullet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisZiBullet/cars-api/issues"
+  },
+  "homepage": "https://github.com/thisZiBullet/cars-api#readme",
+  "dependencies": {
+    "axios": "^1.2.0"
+  }
+}
